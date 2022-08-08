@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="IntroText">Hello World! Its me Ritesh here. I study Computer Science at Stony Brook University and I love programming.</string>
+</resources>
